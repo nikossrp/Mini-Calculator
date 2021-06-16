@@ -1,5 +1,5 @@
 # Mini-Calculator
-Calculate the addition, subtraction, power using recursive
+Calculate the addition, subtraction, power using recursive, also parentheses are allowed
 
 <p><h3>Compile</h3></p>
 make
