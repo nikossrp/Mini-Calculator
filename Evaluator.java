@@ -25,10 +25,6 @@ class Evaluator {
         return c >= '0' && c <= '9';
     }
 
-    private int evalDigit(int c) {
-        return c - '0';
-    }
-
 
     private boolean isRparenthesis(int c) {
         return c == '(';
